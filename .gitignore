@@ -1,0 +1,27 @@
+# Qt Creator
+*.user
+*.user.*
+
+# Build
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Generated binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# IDE
+.qtcreator/
+.qtc_clangd/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
